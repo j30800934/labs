@@ -197,7 +197,4 @@ Summary:
 
     Block size (in bytes): 16 bytes
     Number of hex characters for block size: 32 hex characters
-
-
-    Asertd'''''''''''2837473%&$*()~~~@::
-    p3igziz3igziz76"@
+    
